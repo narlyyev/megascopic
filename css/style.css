@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url("../img/intro.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(12, 29, 56, 0.3);
+}
